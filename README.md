@@ -5,9 +5,9 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 
-<p>
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=evgeniy1503&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+<p align="center">
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=evgeniy1503&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&"/> 
 </p>
-<p>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy1503&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+<p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy1503&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&"/>
 </p>
