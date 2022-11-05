@@ -6,4 +6,4 @@
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=evgeniy1503)](https://git.io/streak-stats)
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy1503&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy1503)]
