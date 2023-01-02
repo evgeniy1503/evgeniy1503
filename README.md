@@ -1,10 +1,12 @@
 # Hi, I am Evgeniy!👋
 
 <h3>My contacts:</h3>
+
 [![Telegram](https://img.shields.io/badge/Telegram:@Evgeniy1503-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgeniy1503)
 ![Gmail](https://img.shields.io/badge/Gmail:evgeniy15031991@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h3>About me:</h3>
+
 - 🏠 I currently live in St. Petersburg.
 - 🎓 I am studying Java on Hexlet school. My profile: [https://ru.hexlet.io/u/evgen_prohor](https://ru.hexlet.io/u/evgen_prohor)
 - 📫 My CV [here](https://cv.hexlet.io/resumes/1801)
@@ -12,6 +14,7 @@
 
 
 <h3>My stack:</h3>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -28,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <h3>My project:</h3>
+
 [Pade Analyzer:](https://github.com/evgeniy1503/java-project-72)
 - Checking sites on SEO. 
 - <b>Stack:</b> Javalin, ORM, SQL, HTML, CSS
