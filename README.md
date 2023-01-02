@@ -1,14 +1,46 @@
-# Hi, I am Evgeniy!
+# Hi, I am Evgeniy!👋
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+<h3>My contacts:</h3>
+[![Telegram](https://img.shields.io/badge/Telegram:@Evgeniy1503-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgeniy1503)
+![Gmail](https://img.shields.io/badge/Gmail:evgeniy15031991@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<p align="center">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=evgeniy1503&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21"/> 
-</p>
-<p align="center">
-<img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy1503&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
-<img height="125px" src="https://github-readme-stats.vercel.app/api?username=evgeniy1503&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
-</p>
+<h3>About me:</h3>
+- 🏠 I currently live in St. Petersburg.
+- 🎓 I am studying Java on Hexlet school. My profile: [https://ru.hexlet.io/u/evgen_prohor](https://ru.hexlet.io/u/evgen_prohor)
+- 📫 My CV [here](https://cv.hexlet.io/resumes/1801)
+- 🌱 I’m currently learning English.
+
+
+<h3>My stack:</h3>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<h3>My project:</h3>
+[Pade Analyzer:](https://github.com/evgeniy1503/java-project-72)
+- Checking sites on SEO. 
+- <b>Stack:</b> Javalin, ORM, SQL, HTML, CSS
+
+[Mind Games:](https://github.com/evgeniy1503/java-project-lvl1)
+- A set of five console games. 
+- <b>Stack:</b> Java Core, Gradle, Git, Makefile, Checkstyle, CodeClimate, CI (Github actions), IntelliJ IDEA
+
+[Difference computation:](https://github.com/evgeniy1503/java-project-2)
+- A program that determines the difference between two data structures. 
+- <b>Stack:</b> Java Collections Framework, JUnit, TDD, CLI Builder (picocli), Jackson, Test Coverage, json, yaml
+
+[Data Validator](https://github.com/evgeniy1503/java-project-78)
+- A library with which you can check the correctness of any data. 
+- <b>Stack:</b> OOP, SOLID, JUnit, TDD, DSL
+
