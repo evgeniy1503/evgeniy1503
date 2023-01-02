@@ -4,6 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram:@Evgeniy1503-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgeniy1503)
 ![Gmail](https://img.shields.io/badge/Gmail:evgeniy15031991@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![VK](https://img.shields.io/badge/vkontakte:prohorov1991-%23809CC9.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/prohorov1991)
 
 <h3>About me:</h3>
 
@@ -21,7 +22,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%238D6748?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
