@@ -52,3 +52,7 @@
 - A library with which you can check the correctness of any data. 
 - <b>Stack:</b> OOP, SOLID, JUnit, TDD, DSL
 
+[Task Manager](https://github.com/evgeniy1503/java-project-73)
+- Task management system.
+- <b>Stack:</b> SPRING, PostgreSQL, JWT, Swagger, integration tests
+
