@@ -54,5 +54,5 @@
 
 [Task Manager](https://github.com/evgeniy1503/java-project-73)
 - Task management system.
-- <b>Stack:</b> SPRING, PostgreSQL, JWT, Swagger, integration tests
+- <b>Stack:</b> Spring Boot, WVC, Data, PostgreSQL, JWT, Swagger, Lombok, Hibernet, Integration tests
 
