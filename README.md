@@ -3,7 +3,7 @@
 <h3>Мои контакты:</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram:@Evgeniy1503-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgeniy1503)
-![Mail](https://img.shields.io/badge/mail:evgeniy_prohor@mail.ru-%23316192?style=for-the-badge&logo=mail&logoColor=white) 
+[![Mail](https://img.shields.io/badge/mail:evgeniy_prohor@mail.ru-%23316192?style=for-the-badge&logo=mail&logoColor=white)](https://e.mail.ru/cgi-bin/sentmsg?To=evgeniy_prohor@mail.ru&from=otvet&afterReload=1)
 [![VK](https://img.shields.io/badge/vkontakte:prohorov1991-%23809CC9.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/prohorov1991)
 
 <h3>Обо мне:</h3>
