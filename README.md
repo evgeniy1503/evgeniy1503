@@ -1,20 +1,20 @@
 # Hi, I am Evgeniy!👋
 
-<h3>My contacts:</h3>
+<h3>Мои контакты:</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram:@Evgeniy1503-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgeniy1503)
-![Gmail](https://img.shields.io/badge/Gmail:evgeniy15031991@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Mail](https://img.shields.io/badge/mail:evgeniy_prohor@mail.ru-%23316192?style=for-the-badge&logo=mail&logoColor=white) 
 [![VK](https://img.shields.io/badge/vkontakte:prohorov1991-%23809CC9.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/prohorov1991)
 
-<h3>About me:</h3>
+<h3>Обо мне:</h3>
 
-- 🏠 I currently live in St. Petersburg.
-- 🎓 I am studying Java on Hexlet school. My profile: [https://ru.hexlet.io/u/evgen_prohor](https://ru.hexlet.io/u/evgen_prohor)
-- 📫 My CV [here](https://cv.hexlet.io/resumes/1801)
-- 🌱 I’m currently learning English.
+- 🏠 Живу в Санкт-Петербурге.
+- 🎓 Закончил профессию Java-разработчик на Hexlet, мой профиль: [https://ru.hexlet.io/u/evgen_prohor](https://ru.hexlet.io/u/evgen_prohor)
+- 📫 Моё резюме: [мое резюме на hexlet](https://cv.hexlet.io/resumes/1801), [мое резюме на hh](https://hh.ru/resume/024c4397ff0b9156070039ed1f5a484c617634)
+- 🌱 Мой уровень английского B2.
 
 
-<h3>My stack:</h3>
+<h3>Мой стек:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,7 +34,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3>My project:</h3>
+<h3>Мои проекты:</h3>
 
 [Pade Analyzer:](https://github.com/evgeniy1503/java-project-72)
 - Checking sites on SEO. 
