@@ -56,3 +56,6 @@
 - Task management system.
 - <b>Stack:</b> Spring Boot, WVC, Data, PostgreSQL, JWT, Swagger, Lombok, Hibernet, Integration tests
 
+
+![](https://komarev.com/ghpvc/?username=evgeniy1503)
+
