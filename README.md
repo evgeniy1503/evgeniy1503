@@ -9,8 +9,7 @@
 <h3>Обо мне:</h3>
 
 - 🏠 Живу в Санкт-Петербурге.
-- 🎓 Закончил профессию Java-разработчик на Hexlet, мой профиль: [https://ru.hexlet.io/u/evgen_prohor](https://ru.hexlet.io/u/evgen_prohor)
-- 📫 Моё резюме: [мое резюме на hexlet](https://cv.hexlet.io/resumes/1801), [мое резюме на hh](https://hh.ru/resume/024c4397ff0b9156070039ed1f5a484c617634)
+- 💻 Работаю Java-разработчиком в компании ГК Иннотех: [https://inno.tech/ru/](https://inno.tech/ru/)
 - 🌱 Мой уровень английского B2.
 
 
@@ -34,27 +33,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3>Мои проекты:</h3>
-
-[Pade Analyzer:](https://github.com/evgeniy1503/java-project-72)
-- Checking sites on SEO. 
-- <b>Stack:</b> Javalin, ORM, SQL, HTML, CSS
-
-[Mind Games:](https://github.com/evgeniy1503/java-project-lvl1)
-- A set of five console games. 
-- <b>Stack:</b> Java Core, Gradle, Git, Makefile, Checkstyle, CodeClimate, CI (Github actions), IntelliJ IDEA
-
-[Difference computation:](https://github.com/evgeniy1503/java-project-2)
-- A program that determines the difference between two data structures. 
-- <b>Stack:</b> Java Collections Framework, JUnit, TDD, CLI Builder (picocli), Jackson, Test Coverage, json, yaml
-
-[Data Validator](https://github.com/evgeniy1503/java-project-78)
-- A library with which you can check the correctness of any data. 
-- <b>Stack:</b> OOP, SOLID, JUnit, TDD, DSL
-
-[Task Manager](https://github.com/evgeniy1503/java-project-73)
-- Task management system.
-- <b>Stack:</b> Spring Boot, WVC, Data, PostgreSQL, JWT, Swagger, Lombok, Hibernet, Integration tests
 
 
 ![](https://komarev.com/ghpvc/?username=evgeniy1503)
